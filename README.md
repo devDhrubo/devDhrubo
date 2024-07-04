@@ -1,8 +1,8 @@
 <p align="center">
   <img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQ4cjYyaWt1MWkwaHp6bWtpdWc3YzFudThiNGc3bTQ2bnR6YmE5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Dolan Dhrubo Ray</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝙳𝚘𝚕𝚊𝚗 𝙳𝚑𝚛𝚞𝚋𝚘 𝚁𝚊𝚢</h1>
+<h3 align="center">𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h3>
 
 - 🌱 I’m currently learning **Next js, Typescript**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dolandhruboray@gmail.com**
   
-- 🔭 I’m currently Exploring Software Engineering 
+- 🔭 I’m currently Exploring **Software Engineering** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mPokY2-NLi6BPFcsU2wfMUJ8_k_3rzeh/view](https://drive.google.com/file/d/1mPokY2-NLi6BPFcsU2wfMUJ8_k_3rzeh/view)
 
