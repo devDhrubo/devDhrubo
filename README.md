@@ -1,17 +1,14 @@
 
-<h1 align="center">𝙷𝚒 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, 𝙸'𝚖 𝙳𝚘𝚕𝚊𝚗 𝙳𝚑𝚛𝚞𝚋𝚘 𝚁𝚊𝚢</h1>
+<h1 align="center">𝙷𝚒 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, 𝙸'𝚖  <a target=_blank href='https://dolan-dhrubo.netlify.app/'>𝙳𝚘𝚕𝚊𝚗 𝙳𝚑𝚛𝚞𝚋𝚘 𝚁𝚊𝚢</a></h1>
 <h3 align="center">𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h3>
 
 ### 🧐 More About Me:
 - 🌱 I’m currently learning **Next js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://dolan-dhrubo.netlify.app/](https://dolan-dhrubo.netlify.app/)
-
 - 📫 How to reach me **dolandhruboray@gmail.com**
   
 - 🔭 I’m currently Exploring **Software Engineering** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mPokY2-NLi6BPFcsU2wfMUJ8_k_3rzeh/view](https://drive.google.com/file/d/1mPokY2-NLi6BPFcsU2wfMUJ8_k_3rzeh/view)
 
 ### :heart: Let's get connected
 <p align="left">
