@@ -3,7 +3,7 @@
 <h3 align="center">𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h3>
 
 ### 🧐 More About Me:
-- 🌱 I’m currently learning **Next js, Typescript**
+- 🌱 I’m currently learning **Next js, Typescript, DSA**
 
 - 📫 How to reach me **dolandhruboray@gmail.com**
   
