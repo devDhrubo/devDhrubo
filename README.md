@@ -1,5 +1,5 @@
 
-<h1 align="center">𝙷𝚒 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, 𝙸'𝚖  <a target=blank href='https://dolan-dhrubo.netlify.app/'>𝙳𝚘𝚕𝚊𝚗 𝙳𝚑𝚛𝚞𝚋𝚘 𝚁𝚊𝚢</a></h1>
+<h1 align="center">𝙷𝚒 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, 𝙸'𝚖  <a target=blank href='https://dolandhruboray.me/'>𝙳𝚘𝚕𝚊𝚗 𝙳𝚑𝚛𝚞𝚋𝚘 𝚁𝚊𝚢</a></h1>
 <h3 align="center">𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h3>
 
 ### 🧐 More About Me:
